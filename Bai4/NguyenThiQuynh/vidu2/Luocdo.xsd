@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Luocdo"
+    targetNamespace="http://tempuri.org/Luocdo.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Luocdo.xsd"
+    xmlns:mstns="http://tempuri.org/Luocdo.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name="DS">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="contact" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="name">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="firstname" type="xs:string"></xs:element>
+										<xs:element name="lastname" type="xs:string"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="tel">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:pattern value="\d{10}"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="address" type="xs:string"/>
+							<xs:element name="email" type="xs:string"/>
+							<xs:element name="age">
+								<xs:simpleType>
+									<xs:restriction base="xs:integer">
+										<xs:minInclusive value="1"/>
+										<xs:maxInclusive value="150"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+							<xs:element name="gender">
+								<xs:simpleType>
+									<xs:restriction base="xs:string">
+										<xs:enumeration value="female"/>
+										<xs:enumeration value="male"/>
+									</xs:restriction>
+								</xs:simpleType>
+							</xs:element>
+						</xs:sequence>
+
+						<xs:attribute name="ID" type="xs:ID"></xs:attribute>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			
+		</xs:complexType>
+	</xs:element>
+	
+</xs:schema>

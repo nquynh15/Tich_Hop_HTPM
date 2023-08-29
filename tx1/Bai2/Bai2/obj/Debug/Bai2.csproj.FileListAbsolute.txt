@@ -1,0 +1,10 @@
+E:\TichHop\tx1\Bai2\Bai2\bin\Debug\Bai2.exe.config
+E:\TichHop\tx1\Bai2\Bai2\bin\Debug\Bai2.exe
+E:\TichHop\tx1\Bai2\Bai2\bin\Debug\Bai2.pdb
+E:\TichHop\tx1\Bai2\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+E:\TichHop\tx1\Bai2\Bai2\obj\Debug\Bai2.csproj.SuggestedBindingRedirects.cache
+E:\TichHop\tx1\Bai2\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+E:\TichHop\tx1\Bai2\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+E:\TichHop\tx1\Bai2\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+E:\TichHop\tx1\Bai2\Bai2\obj\Debug\Bai2.exe
+E:\TichHop\tx1\Bai2\Bai2\obj\Debug\Bai2.pdb

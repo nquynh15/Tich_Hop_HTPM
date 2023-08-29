@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CSDLTestModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'CSDL Test.dbo.DanhMuc' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="DanhMuc">
+    <Key>
+      <PropertyRef Name="MaDanhMuc" />
+      <PropertyRef Name="TenDanhMuc" />
+    </Key>
+    <Property Name="MaDanhMuc" Type="int" Nullable="false" />
+    <Property Name="TenDanhMuc" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'CSDL Test.dbo.SanPham' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="Ma" />
+      <PropertyRef Name="Ten" />
+      <PropertyRef Name="DonGia" />
+      <PropertyRef Name="MaDanhMuc" />
+    </Key>
+    <Property Name="Ma" Type="int" Nullable="false" />
+    <Property Name="Ten" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="DonGia" Type="int" Nullable="false" />
+    <Property Name="MaDanhMuc" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CSDLTestModelStoreContainer">
+    <EntitySet Name="DanhMuc" EntityType="Self.DanhMuc" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [DanhMuc].[MaDanhMuc] AS [MaDanhMuc], 
+    [DanhMuc].[TenDanhMuc] AS [TenDanhMuc]
+    FROM [dbo].[DanhMuc] AS [DanhMuc]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="SanPham" EntityType="Self.SanPham" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [SanPham].[Ma] AS [Ma], 
+    [SanPham].[Ten] AS [Ten], 
+    [SanPham].[DonGia] AS [DonGia], 
+    [SanPham].[MaDanhMuc] AS [MaDanhMuc]
+    FROM [dbo].[SanPham] AS [SanPham]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

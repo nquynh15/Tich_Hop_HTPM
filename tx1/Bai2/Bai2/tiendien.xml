@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="tiendien.xslt" ?>
+<SoDien>
+	<socu>23</socu>
+	<somoi>125</somoi>
+</SoDien>

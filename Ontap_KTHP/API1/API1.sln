@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoiApi", "GoiApi\GoiApi.csproj", "{EF521EB7-15C4-4852-B66E-CCB057CA2298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tao", "Tao\Tao.csproj", "{2E848A9B-1390-423B-AF5A-91277B66331F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF521EB7-15C4-4852-B66E-CCB057CA2298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF521EB7-15C4-4852-B66E-CCB057CA2298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF521EB7-15C4-4852-B66E-CCB057CA2298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF521EB7-15C4-4852-B66E-CCB057CA2298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E848A9B-1390-423B-AF5A-91277B66331F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E848A9B-1390-423B-AF5A-91277B66331F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E848A9B-1390-423B-AF5A-91277B66331F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E848A9B-1390-423B-AF5A-91277B66331F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FECCA88-D84E-4DAB-BD95-053870F0B8FD}
+	EndGlobalSection
+EndGlobal

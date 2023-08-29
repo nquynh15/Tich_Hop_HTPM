@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DS xmlns="http://tempuri.org/Bai2.xsd">
+	<HoaDon>
+		<MaHD>HD1</MaHD>
+		<NgayBan>2015-11-09</NgayBan>
+		<LoaiHang maloai="A" tenloai="Điện tử">
+			<Hang mahang="H1">
+				<tenhang>TIVI</tenhang>
+				<soluong>60</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>600000</dongia>
+			</Hang>
+			<Hang mahang="H2">
+				<tenhang>Tủ Lạnh</tenhang>
+				<soluong>80</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>4200000</dongia>
+			</Hang>
+			<Hang mahang="H3">
+				<tenhang>Lò vi sóng</tenhang>
+				<soluong>40</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>200000</dongia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang maloai="B" tenloai="Nội thất">
+			<Hang mahang="N1">
+				<tenhang>Sofa</tenhang>
+				<soluong>60</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>600000</dongia>
+			</Hang>
+			<Hang mahang="N2">
+				<tenhang>Ghế đơn</tenhang>
+				<soluong>80</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>4200000</dongia>
+			</Hang>
+			<Hang mahang="N3">
+				<tenhang>Tủ bếp</tenhang>
+				<soluong>40</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>200000</dongia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+	<HoaDon>
+		<MaHD>HD2</MaHD>
+		<NgayBan>2015-11-15</NgayBan>
+		<LoaiHang maloai="B" tenloai="Điện tử">
+			<Hang mahang="H10">
+				<tenhang>TIVI</tenhang>
+				<soluong>60</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>660000</dongia>
+			</Hang>
+			<Hang mahang="H12">
+				<tenhang>Tủ Lạnh</tenhang>
+				<soluong>80</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>4230000</dongia>
+			</Hang>
+			<Hang mahang="H13">
+				<tenhang>Lò vi sóng</tenhang>
+				<soluong>40</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>260000</dongia>
+			</Hang>
+		</LoaiHang>
+		<LoaiHang maloai="B" tenloai="Nội thất">
+			<Hang mahang="N11">
+				<tenhang>Sofa</tenhang>
+				<soluong>60</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>690000</dongia>
+			</Hang>
+			<Hang mahang="N12">
+				<tenhang>Ghế đơn</tenhang>
+				<soluong>80</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>4220000</dongia>
+			</Hang>
+			<Hang mahang="N13">
+				<tenhang>Tủ bếp</tenhang>
+				<soluong>40</soluong>
+				<donvitinh>chiếc</donvitinh>
+				<dongia>260000</dongia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

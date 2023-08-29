@@ -1,0 +1,11 @@
+E:\TichHop\Ontap_KTHP\API\GoiApi\bin\Debug\GoiApi.exe.config
+E:\TichHop\Ontap_KTHP\API\GoiApi\bin\Debug\GoiApi.exe
+E:\TichHop\Ontap_KTHP\API\GoiApi\bin\Debug\GoiApi.pdb
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.csproj.AssemblyReference.cache
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.csproj.SuggestedBindingRedirects.cache
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.Form1.resources
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.Properties.Resources.resources
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.csproj.GenerateResource.cache
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.csproj.CoreCompileInputs.cache
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.exe
+E:\TichHop\Ontap_KTHP\API\GoiApi\obj\Debug\GoiApi.pdb

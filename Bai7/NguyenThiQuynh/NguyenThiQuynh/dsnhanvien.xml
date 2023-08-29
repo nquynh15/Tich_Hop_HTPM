@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="dsnhanvien.xslt"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Trần Văn Hùng</hoten>
+    <diachi>27 Hàng Bài, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Lê Thu Hà</hoten>
+    <diachi>246A Bà Triệu, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Mai Năm Tháng</hoten>
+    <diachi>Bắc Từ Liêm, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Trần Linh</hoten>
+    <diachi>Hai Bà Trưng, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv05">
+    <hoten>Mai Lung Tung</hoten>
+    <diachi>Thanh Xuân, Hà Nội</diachi>
+  </nhanvien>
+</ds>

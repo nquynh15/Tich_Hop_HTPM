@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--<contact xmlns="http://tempuri.org/Luocdo.xsd" ID="C01">
+	<name>
+		<firstname>Tran Van</firstname>
+		<lastname>Hung</lastname>
+	</name>
+	<tel>0912345678</tel>
+	<address>12A Bà Triệu Hà Nội</address>
+	<email>hungtran@yahoo.com</email>
+	<age>70</age>
+	<gender>male</gender>
+	
+</contact>-->
+
+
+<DS xmlns="http://tempuri.org/Luocdo.xsd">
+	<contact ID="CD01">
+		<name>
+			<firstname>Tran Van</firstname>
+			<lastname>Hung</lastname>
+		</name>
+		<tel>0912345678</tel>
+		<address>12A Bà Triệu Hà Nội</address>
+		<email>hungtran@yahoo.com</email>
+		<age>70</age>
+		<gender>male</gender>
+	</contact>
+	
+	<contact ID="CD02">
+		<name>
+			<firstname>Le Van</firstname>
+			<lastname>Hoang</lastname>
+		</name>
+		<tel>0912345678</tel>
+		<address>12A Hai Bà TRưng Hà Nội</address>
+		<email>hoanghoa@yahoo.com</email>
+		<age>50</age>
+		<gender>male</gender>
+	</contact>
+
+	<contact ID="CD03">
+		<name>
+			<firstname>Pham Thi</firstname>
+			<lastname>Minh</lastname>
+		</name>
+		<tel>0912345678</tel>
+		<address>12A Minh Khai Hà Nội</address>
+		<email>Lily@yahoo.com</email>
+		<age>60</age>
+		<gender>female</gender>
+	</contact>
+</DS>

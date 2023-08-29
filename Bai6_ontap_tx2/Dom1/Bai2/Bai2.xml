@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>Trần Văn Hùng</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>27 Hàng Bài, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>Phạm Thu Hà</hoten>
+    <gioitinh>Nữ</gioitinh>
+    <trinhdo>Đại học</trinhdo>
+    <diachi>27 Hàng Bài, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>Cao Minh Sơn</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Cao đẳng</trinhdo>
+    <diachi>27 Hàng Bài, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv04">
+    <hoten>Lê Văn Minh</hoten>
+    <gioitinh>Nam</gioitinh>
+    <trinhdo>Cao đẳng</trinhdo>
+    <diachi>30 Minh Khai, Hà Nội</diachi>
+  </nhanvien>
+</ds>

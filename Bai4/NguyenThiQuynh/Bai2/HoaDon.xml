@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<DS xmlns="http://tempuri.org/XMLSchema1.xsd">
+	<HoaDon>
+		<MaHD>HD01</MaHD>
+		<NgayBan>2015-11-09</NgayBan>
+		<LoaiHang MaLoai="A" TenLoai="Điện tử">
+			<Hang MaHang="H1">
+				<TenHang>Ti Vi</TenHang>
+				<SoLuong>60</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+
+			<Hang MaHang="H2">
+				<TenHang>Tủ lạnh</TenHang>
+				<SoLuong>62</SoLuong>
+				<DonViTinh>chiếc</DonViTinh>
+				<DonGia>6000000</DonGia>
+			</Hang>
+		</LoaiHang>
+	</HoaDon>
+</DS>

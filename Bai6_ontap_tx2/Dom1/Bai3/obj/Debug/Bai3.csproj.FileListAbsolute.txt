@@ -1,0 +1,11 @@
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\bin\Debug\Bai3.exe.config
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\bin\Debug\Bai3.exe
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\bin\Debug\Bai3.pdb
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.csproj.SuggestedBindingRedirects.cache
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.Form1.resources
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.Properties.Resources.resources
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.csproj.GenerateResource.cache
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.exe
+E:\TichHop\Bai6_ontap_tx2\Dom1\Bai3\obj\Debug\Bai3.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ds>
+  <nhanvien manv="nv01">
+    <hoten>
+      <ho>Trần Văn </ho>
+      <ten>Hưng</ten>
+    </hoten>
+    <diachi>27 Hàng Bài, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv02">
+    <hoten>
+      <ho>Phạm Văn </ho>
+      <ten>Minh</ten>
+    </hoten>
+    <diachi>27 Hàng Buồm, Hà Nội</diachi>
+  </nhanvien>
+  <nhanvien manv="nv03">
+    <hoten>
+      <ho>Trần Thu </ho>
+      <ten>Hà</ten>
+    </hoten>
+    <diachi>27 Thanh Xuân, Hà Nội</diachi>
+  </nhanvien>
+</ds>

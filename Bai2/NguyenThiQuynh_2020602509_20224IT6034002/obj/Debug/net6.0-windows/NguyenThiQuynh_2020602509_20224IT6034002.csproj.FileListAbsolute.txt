@@ -1,0 +1,17 @@
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\bin\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.exe
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\bin\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.deps.json
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\bin\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.runtimeconfig.json
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\bin\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.dll
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\bin\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.pdb
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.csproj.AssemblyReference.cache
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.Form1.resources
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.csproj.GenerateResource.cache
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.GeneratedMSBuildEditorConfig.editorconfig
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.AssemblyInfoInputs.cache
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.AssemblyInfo.cs
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.csproj.CoreCompileInputs.cache
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.dll
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\refint\NguyenThiQuynh_2020602509_20224IT6034002.dll
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.pdb
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\NguyenThiQuynh_2020602509_20224IT6034002.genruntimeconfig.cache
+E:\TichHop\Bai2\NguyenThiQuynh_2020602509_20224IT6034002\obj\Debug\net6.0-windows\ref\NguyenThiQuynh_2020602509_20224IT6034002.dll

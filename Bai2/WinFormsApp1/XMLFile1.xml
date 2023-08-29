@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSSV>
+	<SV>
+		<Hodem>Phạm Tuấn</Hodem>
+		<Ten>Đạt</Ten>
+		<TBKT>6</TBKT>
+		<DiemThi>4</DiemThi>
+		<KetQua>
+			<Bangso>2</Bangso>
+			<BangChu>Hai</BangChu>
+		</KetQua>
+	</SV>
+
+	<SV>
+		<Hodem>Trần Văn</Hodem>
+		<Ten>Bình</Ten>
+		<TBKT>6</TBKT>
+		<DiemThi>5</DiemThi>
+		<KetQua>
+			<Bangso>3</Bangso>
+			<BangChu>Ba</BangChu>
+		</KetQua>
+	</SV>
+	
+	<SV>
+		<Hodem>Lê Đinh </Hodem>
+		<Ten>Bảo</Ten>
+		<TBKT>7</TBKT>
+		<DiemThi>6</DiemThi>
+		<KetQua>
+			<Bangso>5</Bangso>
+			<BangChu>Năm</BangChu>
+		</KetQua>
+	</SV>
+</DSSV>
